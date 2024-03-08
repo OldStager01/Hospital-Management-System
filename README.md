@@ -11,3 +11,6 @@ Welcome to our Hospital Management System project! Discover efficiency with our 
 - **Medical Records Management:** Easy access and updates for comprehensive patient care.
 - **Staff Management:** Efficient scheduling and role management for healthcare teams.
 - **Responsive Design:** Accessible from any device for on-the-go professionals.
+
+## USAGE
+- **Go to Homepage Folder and Open index.html to get started**
